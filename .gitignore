@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+
+outputs/
+uploads/
+
+*.png
+*_normalized.tif
+*_viewable.tif
